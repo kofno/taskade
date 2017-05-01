@@ -1,3 +1,5 @@
+# **** This libarary has been renamed to taskarian ****
+
 # taskarian
 
 A Task (Future) implementation in TypeScript. Useful for managing asynchronous tasks
